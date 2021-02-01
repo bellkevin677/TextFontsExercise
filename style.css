@@ -1,0 +1,47 @@
+html {
+    font-family: 'Orbitron', sans-serif;
+}
+span {
+    font-weight: bold;
+}
+h1 {
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+#series-movies {
+    font-size: 20px;
+}
+h2 {
+    font-size: 2em;
+}
+li {
+    line-height: 2;
+}
+#characters {
+    font-size: 18px;
+}
+h4 {
+    letter-spacing: 15px;
+}
+h4 {
+    font-family: PressStart2P-Regular;
+}
+h4,h3,h2 {
+    text-align: center;
+}
+li {
+    font-size: 1rem;
+}
+body {
+    background-image: url(starTrek.jpg);
+    background-size: cover;
+    background-position: center;
+    color: rgba(255, 255, 255, 0.6)
+}
+@font-face {
+    font-family: 'PressStart2P-Regular.tff';
+    src: url('PressStart2P-Regular.ttf') format('truetype'),
+    }
